@@ -27,7 +27,7 @@ Promise.all(promises).then(() => {
     {
       headers: {
         "X-API-KEY":
-          "<Your API KEY>",
+          "PQTdSwM7UnpFiac8am4FHCexFqtCvt0o3Mf8D6PBNovw5XQwh8DAiBP0SIheJnid",
         "Content-Type": "application/json",
         accept: "application/json",
       },

@@ -42,7 +42,7 @@ export const movies = [
     Duration: "3h 14min",
   },
   {
-    Movie: "https://ipfs.moralis.io:2053/ipfs/QmNtxfy9Mk8qLsdGnraHGk5XDim8ayR93krM24ETJEd2bG/media/0",
+    Movie: "https://ipfs.moralis.io:2053/ipfs/QmZFMjdr88269HHh3Ttny7sqWjGMSepxweZJgSWh9rE4EU/media/0",
     Thumnbnail: spidey,
     Scene: spideyScene,
     Logo: spideyLogo,
@@ -54,7 +54,7 @@ export const movies = [
     Duration: "2h 13min",
   },
   {
-    Movie: "",
+    Movie: "https://ipfs.moralis.io:2053/ipfs/QmZFMjdr88269HHh3Ttny7sqWjGMSepxweZJgSWh9rE4EU/media/0",
     Thumnbnail: jumanji,
     Scene: "",
     Logo: "",
@@ -66,7 +66,7 @@ export const movies = [
     Duration: "",
   },
   {
-    Movie: "https://ipfs.moralis.io:2053/ipfs/QmWWnyCZwh8RVnamjeLhGmpYM2C3oDr3FzF7zgv5ur24z5/media/0",
+    Movie: "https://ipfs.moralis.io:2053/ipfs/QmZFMjdr88269HHh3Ttny7sqWjGMSepxweZJgSWh9rE4EU/media/0",
     Thumnbnail: moralis,
     Scene: moralisScene,
     Logo: moralisLogo,
@@ -102,7 +102,7 @@ export const movies = [
     Duration: "",
   },
   {
-    Movie: "https://ipfs.moralis.io:2053/ipfs/QmSi84pJTjBXmXREN8NMRuRnK9oobYb8QcPZsXUj3GZr12/media/0",
+    Movie: "https://ipfs.moralis.io:2053/ipfs/QmZFMjdr88269HHh3Ttny7sqWjGMSepxweZJgSWh9rE4EU/media/0",
     Thumnbnail: jam,
     Scene: jamScene,
     Logo: jamLogo,
