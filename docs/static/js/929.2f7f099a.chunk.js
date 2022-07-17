@@ -1,1 +1,0 @@
-(self.webpackChunkamazon_clone=self.webpackChunkamazon_clone||[]).push([[929],{62859:function(){},12885:function(){},41443:function(){},13170:function(){},88924:function(){},55024:function(){}}]);
